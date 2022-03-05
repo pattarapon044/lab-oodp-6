@@ -29,7 +29,6 @@ The sphere is initialised by setting the radius and the coordinates of the spher
 - Returns the surface area of a sphere (Surface Area=4πr​ 2​ )
 - Returns the volume of a sphere (Volume=4/3 πr​ 3​ )
 
-**Put your class diagram below.**
 
 ![Sphere Class Diagram](image/sphere-diagram.png)
 
