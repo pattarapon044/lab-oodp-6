@@ -28,7 +28,10 @@ The sphere is initialised by setting the radius and the coordinates of the spher
 - Returns the count of all instances of spheres
 - Returns the surface area of a sphere (Surface Area=4πr​ 2​ )
 - Returns the volume of a sphere (Volume=4/3 πr​ 3​ )
-![ex1 drawio](https://user-images.githubusercontent.com/97873771/156887707-28132fc8-9df4-4c15-b5d7-e12a000606fb.png)
+![ex1 drawio]
+
+
+(https://user-images.githubusercontent.com/97873771/156887707-28132fc8-9df4-4c15-b5d7-e12a000606fb.png)
 
 
 ![Sphere Class Diagram](image/sphere-diagram.png)
